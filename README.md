@@ -17,12 +17,16 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-
+![output](./static/img/d1.png)
+![output](./static/img/d2.png)
+![output](./static/img/d3.png)
+![output](./static/img/d4.png)
 
 ## WIREFRAME:
-
+![output](./static/img/wireframe.png)
 
 ## PROTOTYPE:
-
+![output](./static/img/prototype.png)
 
 ## RESULT:
+Thus an user experience design and wireframe for a product development company website has been created.
